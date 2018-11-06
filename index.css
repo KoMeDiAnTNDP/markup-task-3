@@ -6,7 +6,7 @@
 @font-face
 {
     font-family: 'Christmas ScriptC';
-    src: local('Christmas ScriptC'), url('Christmas ScriptC/christmasscriptc.woff') format('woff');
+    src: local('Christmas ScriptC'), url('Christmas ScriptC/christmasscriptc.woff2')  format('woff2'), url('Christmas ScriptC/christmasscriptc.woff') format('woff');
 }
 
 .black:checked ~ .newspaper,
